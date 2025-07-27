@@ -41,7 +41,7 @@ Langkah-langkah yang dilakukan dalam proyek ini meliputi:
 - Mengidentifikasi periode waktu hasil prediksi (1 bulan ke depan).
 - Menganalisis statistik prediksi: nilai rata-rata, median, total transaksi, serta nilai maksimum dan minimum harian.
 
-## Executive Summary
+## Ikhtisar Eksekutif
 ### Ikhtisar Temuan
 Rata-rata pola harian menunjukkan bahwa transaksi tertinggi terjadi pada hari Senin dengan total 4 transaksi, kemudian mengalami penurunan signifikan dalam dua hari berikutnya. Untuk memprediksi jumlah transaksi harian selama 1 bulan ke depan (31 Desember 2017 hingga 29 Januari 2018), digunakan model Prophet yang menunjukkan performa lebih baik dibandingkan Naïve Forecaster, dengan nilai MAPE sebesar 28,17%. Diperkirakan akan terjadi total 82 transaksi, dengan rata-rata 3 transaksi per hari. Tren menunjukkan pola mingguan yang konsisten dan fluktuatif.
 
