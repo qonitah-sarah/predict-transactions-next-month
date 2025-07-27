@@ -1,4 +1,4 @@
-# Forecasting_Qonitah-Sarah
+# Berapa Banyak Transaksi yang Akan Terjadi dalam Satu Bulan ke Depan? 
 
 ## Latar Belakang Proyek
 Tribe Growth merupakan sebuah perusahaan yang memiliki platform e-commerce dengan tiga kategori produk utama: perlengkapan kantor, furnitur, dan teknologi. Selama empat tahun terakhir, penjualan berlangsung di wilayah Amerika Serikat, mencakup 502 kota.
